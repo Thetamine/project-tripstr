@@ -1,0 +1,1847 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5a2254616a60716004efd3ca"
+  },
+  "response": {
+    "suggestedFilters": {
+      "header": "Tap to show:",
+      "filters": [
+        {
+          "name": "Open now",
+          "key": "openNow"
+        }
+      ]
+    },
+    "geocode": {
+      "what": "",
+      "where": "florence al",
+      "center": {
+        "lat": 34.79981,
+        "lng": -87.67725
+      },
+      "displayString": "Florence, AL, United States",
+      "cc": "US",
+      "geometry": {
+        "bounds": {
+          "ne": {
+            "lat": 34.891873,
+            "lng": -87.570095
+          },
+          "sw": {
+            "lat": 34.778962,
+            "lng": -87.72251899999999
+          }
+        }
+      },
+      "slug": "florence-alabama",
+      "longId": "72057594041990513"
+    },
+    "headerLocation": "Florence",
+    "headerFullLocation": "Florence",
+    "headerLocationGranularity": "city",
+    "query": "mcdonalds",
+    "totalResults": 15,
+    "suggestedBounds": {
+      "ne": {
+        "lat": 34.88125326042821,
+        "lng": -87.49708606111801
+      },
+      "sw": {
+        "lat": 34.688290931972986,
+        "lng": -87.75731107131901
+      }
+    },
+    "groups": [
+      {
+        "type": "Recommended Places",
+        "name": "recommended",
+        "items": [
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c544c4206901b8d04a4904b",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2563832726",
+                "formattedPhone": "(256) 383-2726"
+              },
+              "location": {
+                "address": "4201 N Jackson Hwy",
+                "lat": 34.77413019832918,
+                "lng": -87.66982555389404,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.77413019832918,
+                    "lng": -87.66982555389404
+                  }
+                ],
+                "postalCode": "35660",
+                "cc": "US",
+                "city": "Sheffield",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "4201 N Jackson Hwy",
+                  "Sheffield, AL 35660",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 621,
+                "usersCount": 137,
+                "tipCount": 3
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 6.2,
+              "ratingColor": "FFC800",
+              "ratingSignals": 10,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4c544c4206901b8d04a4904b/menu",
+                "mobileUrl": "https://foursquare.com/v/4c544c4206901b8d04a4904b/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 5:00 AM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Closed until 5:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "7603",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "51624697e4b0b38ff8023753",
+                "createdAt": 1365395095,
+                "text": "Three hours on foursquare are as usual wrong.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51624697e4b0b38ff8023753",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "1030976",
+                  "firstName": "Cameron",
+                  "lastName": "Kelly-Johnson",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/BPWDJ15YERA3BSGD.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4c544c4206901b8d04a4904b-0"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c1ce131b4e62d7f5eb3db93",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2563812211",
+                "formattedPhone": "(256) 381-2211"
+              },
+              "location": {
+                "address": "1503 Woodward Ave",
+                "lat": 34.74696199356665,
+                "lng": -87.66721107608818,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.74696199356665,
+                    "lng": -87.66721107608818
+                  }
+                ],
+                "postalCode": "35661",
+                "cc": "US",
+                "city": "Muscle Shoals",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "1503 Woodward Ave",
+                  "Muscle Shoals, AL 35661",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 596,
+                "usersCount": 159,
+                "tipCount": 4
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 6.4,
+              "ratingColor": "FFC800",
+              "ratingSignals": 15,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4c1ce131b4e62d7f5eb3db93/menu",
+                "mobileUrl": "https://foursquare.com/v/4c1ce131b4e62d7f5eb3db93/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "678",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4e6f79242271c30fff67cf87",
+                "createdAt": 1315928356,
+                "text": "This McDonald’s has free AT&T Wi-Fi. It’s easy to log on and stay connected while you dine.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e6f79242271c30fff67cf87",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 like"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 1
+                },
+                "user": {
+                  "id": "11852785",
+                  "firstName": "AT&T",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/11852785-I454F2WMF3U2VCYF"
+                  },
+                  "type": "chain"
+                }
+              }
+            ],
+            "referralId": "e-0-4c1ce131b4e62d7f5eb3db93-1"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4d51f7849b27721e206dbd46",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567664341",
+                "formattedPhone": "(256) 766-4341",
+                "facebook": "118015621542873",
+                "facebookUsername": "McDonalds1505FlorenceBlvd",
+                "facebookName": "McDonald's"
+              },
+              "location": {
+                "address": "1505 Florence Blvd",
+                "lat": 34.82090046017898,
+                "lng": -87.65525043010712,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.82090046017898,
+                    "lng": -87.65525043010712
+                  }
+                ],
+                "postalCode": "35630",
+                "cc": "US",
+                "city": "Florence",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "1505 Florence Blvd",
+                  "Florence, AL 35630",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 717,
+                "usersCount": 227,
+                "tipCount": 10
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 5.9,
+              "ratingColor": "FF9600",
+              "ratingSignals": 19,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4d51f7849b27721e206dbd46/menu",
+                "mobileUrl": "https://foursquare.com/v/4d51f7849b27721e206dbd46/device_menu",
+                "externalUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "11420",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4df9920762e1e9a2436788d4",
+                "createdAt": 1308201479,
+                "text": "Caramel frappe is a decent substitute since there is no Starbucks in Florence.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4df9920762e1e9a2436788d4",
+                "likes": {
+                  "count": 5,
+                  "groups": [],
+                  "summary": "5 likes"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "5513174",
+                  "firstName": "Christie",
+                  "lastName": "Kramer",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/5513174_Qa5ELMXC_Ma003HDWg7tH8Nw-qfSQ-JzV97lN9jpGvUl7tfcvHWbxw30T231s2jMnHhVp-s8S.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4d51f7849b27721e206dbd46-2"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4b755ce5f964a5204d082ee3",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567669550",
+                "formattedPhone": "(256) 766-9550"
+              },
+              "location": {
+                "address": "1155 N Wood Ave",
+                "lat": 34.81699940692034,
+                "lng": -87.6808377136384,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.81699940692034,
+                    "lng": -87.6808377136384
+                  }
+                ],
+                "postalCode": "35630",
+                "cc": "US",
+                "city": "Florence",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "1155 N Wood Ave",
+                  "Florence, AL 35630",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 1354,
+                "usersCount": 268,
+                "tipCount": 10
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 5.6,
+              "ratingColor": "FF9600",
+              "ratingSignals": 18,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4b755ce5f964a5204d082ee3/menu",
+                "mobileUrl": "https://foursquare.com/v/4b755ce5f964a5204d082ee3/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "24294",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4e7b72908877aa6bfe6e896a",
+                "createdAt": 1316713104,
+                "text": "Cops are always outside so be cool if you come there drunk.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e7b72908877aa6bfe6e896a",
+                "likes": {
+                  "count": 6,
+                  "groups": [],
+                  "summary": "6 likes"
+                },
+                "logView": true,
+                "agreeCount": 3,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                }
+              }
+            ],
+            "referralId": "e-0-4b755ce5f964a5204d082ee3-3"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bcb7036cc8cd13a896abfcf",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567574040",
+                "formattedPhone": "(256) 757-4040",
+                "facebook": "140909875945992",
+                "facebookUsername": "McDonalds1001Hwy72",
+                "facebookName": "McDonald's"
+              },
+              "location": {
+                "address": "1001 Highway 72",
+                "lat": 34.8565200670518,
+                "lng": -87.55380123853689,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.8565200670518,
+                    "lng": -87.55380123853689
+                  }
+                ],
+                "postalCode": "35645",
+                "cc": "US",
+                "city": "Killen",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "1001 Highway 72",
+                  "Killen, AL 35645",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 985,
+                "usersCount": 200,
+                "tipCount": 1
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 6.6,
+              "ratingColor": "FFC800",
+              "ratingSignals": 12,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4bcb7036cc8cd13a896abfcf/menu",
+                "mobileUrl": "https://foursquare.com/v/4bcb7036cc8cd13a896abfcf/device_menu",
+                "externalUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 4:00 AM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 4:00 AM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true,
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4f9830a6e4b0c0b1d2f24a65",
+                "createdAt": 1335373990,
+                "text": "Eat the southern style chicken sandwich yummy :0)",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4f9830a6e4b0c0b1d2f24a65",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "26722069",
+                  "firstName": "Brittany",
+                  "lastName": "Gibson",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/XG4KCY5HFCGMQ4WZ.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4bcb7036cc8cd13a896abfcf-4"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4f32845319836c91c7df7dd0",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567643335",
+                "formattedPhone": "(256) 764-3335"
+              },
+              "location": {
+                "address": "1126 Bradshaw Dr",
+                "lat": 34.833846,
+                "lng": -87.668212,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.833846,
+                    "lng": -87.668212
+                  }
+                ],
+                "postalCode": "35630",
+                "cc": "US",
+                "city": "Florence",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "1126 Bradshaw Dr",
+                  "Florence, AL 35630",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 3,
+                "usersCount": 2,
+                "tipCount": 0
+              },
+              "url": "http://www.mcdonalds.com/",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 0,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "referralId": "e-0-4f32845319836c91c7df7dd0-5"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bc46a4af8219c74e347b710",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2563813330",
+                "formattedPhone": "(256) 381-3330"
+              },
+              "location": {
+                "address": "324 S Montgomery Ave",
+                "lat": 34.753893564933826,
+                "lng": -87.69927208366342,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.753893564933826,
+                    "lng": -87.69927208366342
+                  }
+                ],
+                "postalCode": "35660",
+                "cc": "US",
+                "city": "Sheffield",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "324 S Montgomery Ave",
+                  "Sheffield, AL 35660",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 132,
+                "usersCount": 45,
+                "tipCount": 2
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 5,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4bc46a4af8219c74e347b710/menu",
+                "mobileUrl": "https://foursquare.com/v/4bc46a4af8219c74e347b710/device_menu"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 6:00 AM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Closed until 6:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "13389",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4e6f8688aeb74b05754d2c04",
+                "createdAt": 1315931784,
+                "text": "This McDonald’s has free AT&T Wi-Fi. It’s easy to log on and stay connected while you dine.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4e6f8688aeb74b05754d2c04",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 like"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 1
+                },
+                "user": {
+                  "id": "11852785",
+                  "firstName": "AT&T",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/11852785-I454F2WMF3U2VCYF"
+                  },
+                  "type": "chain"
+                }
+              }
+            ],
+            "referralId": "e-0-4bc46a4af8219c74e347b710-6"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4c37ceac93db0f47b08d2092",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2563141411",
+                "formattedPhone": "(256) 314-1411",
+                "facebook": "103412523056658",
+                "facebookUsername": "McDonalds412US43",
+                "facebookName": "McDonald's"
+              },
+              "location": {
+                "address": "412 US 43",
+                "lat": 34.71274,
+                "lng": -87.668731,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.71274,
+                    "lng": -87.668731
+                  }
+                ],
+                "postalCode": "35674",
+                "cc": "US",
+                "city": "Tuscumbia",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "412 US 43",
+                  "Tuscumbia, AL 35674",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 385,
+                "usersCount": 215,
+                "tipCount": 4
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 6.1,
+              "ratingColor": "FFC800",
+              "ratingSignals": 13,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4c37ceac93db0f47b08d2092/menu",
+                "mobileUrl": "https://foursquare.com/v/4c37ceac93db0f47b08d2092/device_menu",
+                "externalUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 5:00 AM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Closed until 5:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "23606",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true,
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4f7854dbe4b05cde61adbc73",
+                "createdAt": 1333286107,
+                "text": "Don't get the sausage mcmuffins. They can't toast them worth a crap. Chewy and off-putting.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4f7854dbe4b05cde61adbc73",
+                "likes": {
+                  "count": 1,
+                  "groups": [],
+                  "summary": "1 like"
+                },
+                "logView": true,
+                "agreeCount": 1,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "5918703",
+                  "firstName": "James",
+                  "lastName": "Moody",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/OC3TB5Y01EE0DY5C.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4c37ceac93db0f47b08d2092-7"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4bfc0f99d6f2c9b6fda64ec8",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567642800",
+                "formattedPhone": "(256) 764-2800",
+                "facebook": "111852005516745",
+                "facebookUsername": "McDonalds306CoxCreekPky",
+                "facebookName": "McDonald's"
+              },
+              "location": {
+                "address": "306 Cox Creek Pkwy",
+                "lat": 34.83747034395274,
+                "lng": -87.63118374184137,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.83747034395274,
+                    "lng": -87.63118374184137
+                  }
+                ],
+                "postalCode": "35630",
+                "cc": "US",
+                "city": "Florence",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "306 Cox Creek Pkwy",
+                  "Florence, AL 35630",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 607,
+                "usersCount": 182,
+                "tipCount": 5
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 5.5,
+              "ratingColor": "FF9600",
+              "ratingSignals": 7,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4bfc0f99d6f2c9b6fda64ec8/menu",
+                "mobileUrl": "https://foursquare.com/v/4bfc0f99d6f2c9b6fda64ec8/device_menu",
+                "externalUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Closed until 5:00 AM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Closed until 5:00 AM"
+                },
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "7300",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "522b33d0498eb2b23195b526",
+                "createdAt": 1378563024,
+                "text": "Sausage Biscuit is on point when fresh but horrible when not.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/522b33d0498eb2b23195b526",
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "5513174",
+                  "firstName": "Christie",
+                  "lastName": "Kramer",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/5513174_Qa5ELMXC_Ma003HDWg7tH8Nw-qfSQ-JzV97lN9jpGvUl7tfcvHWbxw30T231s2jMnHhVp-s8S.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4bfc0f99d6f2c9b6fda64ec8-8"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e4e0fb0bd4101d0d7a151ea",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567661105",
+                "formattedPhone": "(256) 766-1105"
+              },
+              "location": {
+                "address": "3100 Hough Rd",
+                "lat": 34.836123,
+                "lng": -87.625581,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.836123,
+                    "lng": -87.625581
+                  }
+                ],
+                "postalCode": "35630",
+                "cc": "US",
+                "city": "Florence",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "3100 Hough Rd",
+                  "Florence, AL 35630",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 1,
+                "usersCount": 1,
+                "tipCount": 0
+              },
+              "url": "http://www.mcdonalds.com/",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "referralId": "e-0-4e4e0fb0bd4101d0d7a151ea-9"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4d667146c2ccb60c470f70ac",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567406797",
+                "formattedPhone": "(256) 740-6797",
+                "facebook": "120255391325326",
+                "facebookUsername": "McDonalds3183CloverdaleRd",
+                "facebookName": "McDonald's"
+              },
+              "location": {
+                "address": "3183 Cloverdale Rd",
+                "lat": 34.84876520119018,
+                "lng": -87.69072037301635,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.84876520119018,
+                    "lng": -87.69072037301635
+                  }
+                ],
+                "postalCode": "35633",
+                "cc": "US",
+                "city": "Florence",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "3183 Cloverdale Rd",
+                  "Florence, AL 35633",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 491,
+                "usersCount": 136,
+                "tipCount": 6
+              },
+              "url": "http://mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "hasMenu": true,
+              "rating": 5.4,
+              "ratingColor": "FF9600",
+              "ratingSignals": 14,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://foursquare.com/v/mcdonalds/4d667146c2ccb60c470f70ac/menu",
+                "mobileUrl": "https://foursquare.com/v/4d667146c2ccb60c470f70ac/device_menu",
+                "externalUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open until 4:00 AM",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open until 4:00 AM"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "25628",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "exactMatch": true
+            },
+            "tips": [
+              {
+                "id": "4f10d35ae4b0253d4c15e119",
+                "createdAt": 1326502746,
+                "text": "They are so slow",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/4f10d35ae4b0253d4c15e119",
+                "likes": {
+                  "count": 3,
+                  "groups": [],
+                  "summary": "3 likes"
+                },
+                "logView": true,
+                "agreeCount": 0,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "19653303",
+                  "firstName": "Darrel",
+                  "lastName": "Riley",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://igx.4sqi.net/img/user/",
+                    "suffix": "/TWCKQGFVGEP01HSF.jpg"
+                  }
+                }
+              }
+            ],
+            "referralId": "e-0-4d667146c2ccb60c470f70ac-10"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4e4e0fd5bd4101d0d7a15598",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2563812211",
+                "formattedPhone": "(256) 381-2211"
+              },
+              "location": {
+                "address": "412 Highway 43 S",
+                "lat": 34.709592156381326,
+                "lng": -87.74548266176443,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.709592156381326,
+                    "lng": -87.74548266176443
+                  }
+                ],
+                "postalCode": "35674",
+                "cc": "US",
+                "city": "Tuscumbia",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "412 Highway 43 S",
+                  "Tuscumbia, AL 35674",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 14,
+                "usersCount": 8,
+                "tipCount": 0
+              },
+              "url": "http://www.mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 1,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true,
+              "exactMatch": true
+            },
+            "referralId": "e-0-4e4e0fd5bd4101d0d7a15598-11"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "56c60a6bcd106598ed0af35f",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2563818612",
+                "formattedPhone": "(256) 381-8612",
+                "twitter": "mcdonalds",
+                "facebook": "650783008399181",
+                "facebookUsername": "McDonalds2048Hwy20",
+                "facebookName": "McDonald's"
+              },
+              "location": {
+                "address": "2048 Highway 20",
+                "crossStreet": "at 3 Mile Ln",
+                "lat": 34.69712253260497,
+                "lng": -87.63583866890258,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.69712253260497,
+                    "lng": -87.63583866890258
+                  }
+                ],
+                "postalCode": "35674",
+                "cc": "US",
+                "city": "Tuscumbia",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "2048 Highway 20 (at 3 Mile Ln)",
+                  "Tuscumbia, AL 35674",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 101,
+                "usersCount": 19,
+                "tipCount": 0
+              },
+              "url": "http://www.mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 0,
+              "menu": {
+                "type": "Menu",
+                "label": "Menu",
+                "anchor": "View Menu",
+                "url": "https://www.mcdonalds.com/us/en-us/full-menu.html",
+                "mobileUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html",
+                "externalUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html"
+              },
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "status": "Open",
+                "richStatus": {
+                  "entities": [],
+                  "text": "Open"
+                },
+                "isOpen": true,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true,
+              "exactMatch": true
+            },
+            "referralId": "e-0-56c60a6bcd106598ed0af35f-12"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "5465f64b498e0e0479dca829",
+              "name": "McDonald's",
+              "contact": {},
+              "location": {
+                "lat": 34.69706194690277,
+                "lng": -87.54920167771682,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.69706194690277,
+                    "lng": -87.54920167771682
+                  }
+                ],
+                "cc": "US",
+                "state": "Alabama",
+                "country": "United States",
+                "formattedAddress": [
+                  "Alabama",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": false,
+              "stats": {
+                "checkinsCount": 4,
+                "usersCount": 4,
+                "tipCount": 0
+              },
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 1,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true,
+              "exactMatch": true
+            },
+            "referralId": "e-0-5465f64b498e0e0479dca829-13"
+          },
+          {
+            "reasons": {
+              "count": 0,
+              "items": [
+                {
+                  "summary": "This spot is popular",
+                  "type": "general",
+                  "reasonName": "globalInteractionReason"
+                }
+              ]
+            },
+            "venue": {
+              "id": "4fb6a6ba0039f14f6aeefdb9",
+              "name": "McDonald's",
+              "contact": {
+                "phone": "2567574040",
+                "formattedPhone": "(256) 757-4040"
+              },
+              "location": {
+                "address": "1001 Hwy 7 E",
+                "lat": 34.872482245498425,
+                "lng": -87.50891447067261,
+                "labeledLatLngs": [
+                  {
+                    "label": "display",
+                    "lat": 34.872482245498425,
+                    "lng": -87.50891447067261
+                  }
+                ],
+                "postalCode": "35645",
+                "cc": "US",
+                "city": "Killen",
+                "state": "AL",
+                "country": "United States",
+                "formattedAddress": [
+                  "1001 Hwy 7 E",
+                  "Killen, AL 35645",
+                  "United States"
+                ]
+              },
+              "categories": [
+                {
+                  "id": "4bf58dd8d48988d16e941735",
+                  "name": "Fast Food Restaurant",
+                  "pluralName": "Fast Food Restaurants",
+                  "shortName": "Fast Food",
+                  "icon": {
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                    "suffix": ".png"
+                  },
+                  "primary": true
+                }
+              ],
+              "verified": true,
+              "stats": {
+                "checkinsCount": 8,
+                "usersCount": 5,
+                "tipCount": 0
+              },
+              "url": "http://www.mcdonalds.com",
+              "price": {
+                "tier": 1,
+                "message": "Cheap",
+                "currency": "$"
+              },
+              "rating": 5.7,
+              "ratingColor": "FF9600",
+              "ratingSignals": 0,
+              "allowMenuUrlEdit": true,
+              "beenHere": {
+                "count": 0,
+                "marked": false,
+                "lastCheckinExpiredAt": 0
+              },
+              "hours": {
+                "isOpen": false,
+                "isLocalHoliday": false
+              },
+              "photos": {
+                "count": 0,
+                "groups": []
+              },
+              "storeId": "23018",
+              "hereNow": {
+                "count": 0,
+                "summary": "Nobody here",
+                "groups": []
+              }
+            },
+            "flags": {
+              "outsideRadius": true,
+              "exactMatch": true
+            },
+            "referralId": "e-0-4fb6a6ba0039f14f6aeefdb9-14"
+          }
+        ]
+      }
+    ]
+  }
+}

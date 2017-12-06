@@ -1,0 +1,17 @@
+{
+  "name": "project-tripstr",
+  "version": "1.0.0",
+  "description": "a bings map application that sources your favorite shopping destinations and plans a roadtrip based around them! ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shelby Russ",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
+    "node-foursquare": "^0.3.0"
+  }
+}

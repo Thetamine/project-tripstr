@@ -1,0 +1,16 @@
+#mapContainer {
+  width: 100%;
+  height: auto;
+}
+
+#myMap {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+#getSomeDataBtn {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+}
