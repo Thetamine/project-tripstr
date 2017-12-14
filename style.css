@@ -1,16 +1,42 @@
+body {
+  margin: 0;
+}
+
 #mapContainer {
   width: 100%;
-  height: auto;
+  height: 100vh;
+  position: relative;
 }
 
 #myMap {
-  position: relative;
-  height: 100%;
+  position: absolute;
+  height: 95vh;
   width: 100%;
+  margin: 0;
+  padding: 0;
+  bottom: 0;
 }
 
 #getSomeDataBtn {
   background-color: white;
   border: 2px solid black;
   border-radius: 5px;
+}
+
+.directionsItinerary {
+  overflow-y: auto;
+  width: 377px;
+  height: 500px;
+  position: absolute;
+  bottom: 90px;
+  background-color: white;
+}
+
+
+.ms-composite {
+  height: 100vh
+}
+
+.hidden {
+  display: none;
 }

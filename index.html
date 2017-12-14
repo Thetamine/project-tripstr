@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./includes/awesomplete-gh-pages/awesomplete.css">
     <!-- Reference to the Bing Maps SDK -->
     <script type='text/javascript'
             src='http://www.bing.com/api/maps/mapcontrol?callback=GetMap'
@@ -14,9 +15,20 @@
 </head>
 <body>
   <div id="mapContainer">
+    <section id="shopping-search">
+      <input type="text" id="searchTbx" class="hidden" />
+      <input type="text" id="placesTbx" class="awesomplete" />
+      <input type="button" value="search" id="searchPlaces" />
+      <span class="search-text">What are you looking for?</span>
+    </section>
     <div id="myMap"></div>
-    <div id='directionsItinerary'></div>
   </div>
+  <script src="./includes/jquery-3.2.1.js"></script>
+  <script src="./includes/autocompleteArr.js"></script>
+  <script src="./includes/awesomplete-gh-pages/awesomplete.min.js"></script>
   <script src="app.js"></script>
+  <script>
+
+  </script>
 </body>
 </html>
