@@ -1,6 +1,6 @@
 function fruits(){
-  var text;
-  var fruits = "henry";
+  let text = '';
+  let fruits = "henry";
 
   switch(fruits) {
       case "Banana":

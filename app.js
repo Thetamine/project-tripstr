@@ -5,8 +5,8 @@
 
 // Create an autocomplete widget for assisting in finding user's pitstops
 // along the way
-var awesompleteInput = document.getElementById("placesTbx");
-var awesomeplete = new Awesomplete(awesompleteInput, {
+const awesompleteInput = document.getElementById("placesTbx");
+const awesomeplete = new Awesomplete(awesompleteInput, {
   minChars: 1,
   maxItems: 7,
   autoFirst: true
@@ -14,10 +14,10 @@ var awesomeplete = new Awesomplete(awesompleteInput, {
 awesomeplete.list = autocompleteArr;
 
 window.onload = function getMap(){
-  var obj, color, catName, directionsManager, awesomepleteInput, placesInput;
-  var locationObj = { locationList: []};   // create an array object to store the variable location list.
+  let obj, color, catName, directionsManager, awesomepleteInput, placesInput = '';
+  const locationObj = { locationList: []};   // create an array object to store the variable location list.
                           // for the maps event handler function 'waypoints'
-  var map = new Microsoft.Maps.Map('#myMap', {
+  const map = new Microsoft.Maps.Map('#myMap', {
     credentials: 'Aq7ULuBT7euUnNSrYvx-6u0bAWfIVmyre8fdnsrE5GEzQGn_Cm26V4DxxBygLqwZ'
   });
   function selectedSuggestion(result) {
