@@ -5,6 +5,42 @@
 
 // Create an autocomplete widget for assisting in finding user's pitstops
 // along the way
+
+//if the user is not authenticated, redirect to foursquare authentication
+
+const json = '';
+const authentication = {
+  clientId: 'L5P33BUJOJIRC3JJQ5DP2Q5UETACUJ5B3J1P21PZGGKU1TE4',
+  clientSecret: 'PIVSGE1L5TLOYYRQS5EZIF4O45LO5XSWNLU23SCCMTPKAXIV',
+  redirectURL: 'http://localhost:8080/sites/project-tripstr/callback.html',
+  token: ''
+};
+
+if (location.search.substring(1).split("=")[0] === 'code') {
+  const code = location.search.substring(1).split("=")[1];
+  console.log('your code is: ', code);
+
+  fetch(`https://foursquare.com/oauth2/access_token
+?client_id=${authentication.clientId}
+&client_secret=${authentication.clientSecret}
+&grant_type=authorization_code
+&redirect_uri=${authentication.redirectURL}
+&code=${code}`)
+.then(function(response){
+  json = response.data;
+})
+.catch(function(err){
+  console.log(err);
+});
+
+console.log(json);
+} else {
+  window.location.replace(`https://foursquare.com/oauth2/authenticate
+?client_id=${authentication.clientId}
+&response_type=code
+&redirect_uri=${authentication.redirectURL}`);
+}
+
 const awesompleteInput = document.getElementById("placesTbx");
 const awesomeplete = new Awesomplete(awesompleteInput, {
   minChars: 1,
